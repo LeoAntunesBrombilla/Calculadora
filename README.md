@@ -1,7 +1,7 @@
 # Calculadora
 Calculadora que faz calculos básicos.
 
-## Utilizando HTML, CSS, Javascript 
+### Utilizando HTML, CSS, Javascript 
 
 ### Foi utilizado uma função construtora! 
 
